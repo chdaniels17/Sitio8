@@ -1,0 +1,22 @@
+.container {
+	max-width: 1000px;
+	margin: auto;
+
+}
+
+.menu {
+	display: flex;
+	justify-content: space-around;
+	max-width: 600px;
+	margin: auto;
+}
+
+.principal {
+	display: flex;
+	justify-content: space-between;
+}
+
+.submenu {
+	display: flex;
+	align-self: auto;
+}

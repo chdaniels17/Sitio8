@@ -18,5 +18,8 @@
 
 .submenu {
 	display: flex;
-	align-self: auto;
+}
+
+.submenu li {
+	margin-left: 5px;
 }
